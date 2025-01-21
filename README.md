@@ -1,4 +1,5 @@
 # Statistics and Data Science Student 
+#### Technical Skills: R, Python, Stata, LaTeX
 [LinkedIn](https://www.linkedin.com/in/max-hansson-7788b9145/)
 ### Summary
 I am a motivated Statistics and Data Science student with a passion for data and machine learning. Seeking opportunities to apply the knowledge gained during my education. I am hardworking and love new challenges, especially within the realm of statistical analysis and statistical learning tasks. 
@@ -49,9 +50,4 @@ Evaluating predictive performance of Bayesian regression models
 [Bayesian regression.pdf](https://github.com/macitac/portfolio/blob/main/Evaluating%20predictive%20performance%20of%20Bayesian%20regression%20models.pdf)
 - Developed and implemented hierarchical regression models using rstan. Again using data for house price predictions, but exploring Bayesian methods instead of machine learning.
 
-### Skills
-- R: For the majority of my education, I have been using R for statistical analyis, visualization etc making me very comfortable in this programming language.
-- Python: This has been my go to language for machine learning and AI tasks. For the most part, i have been working in pytorch when constructing neural networks. 
-- Visma: I used visma extensively during my work in accounting for Studentradion
-- LaTeX: LaTeX has been the primary document compiling language used during my education.
-- Stata: I have gained some stata knowledge during my time at the department of Peace and Conflict. 
+
