@@ -7,7 +7,7 @@ Master's degree in Statistics and Data Science, August 2023 - June 2025, Uppsala
 - The program provides a broad foundation in statistics and data analysis. It covers classical statistical concepts combined with a strong focus on machine learning, Bayesian statistics and AI.
 
 Bachelor's Degree in Economics, January 2021 - June 2023, Uppsala University
-- Economic degree with a strong focus on statistics. My bachelor thesis combined economics with a strong focus on machine learning and prediction models.
+- Economic degree with a strong focus on statistics. My bachelor thesis combined economics with machine learning and prediction models.
 
 Basic Military Training, September 2019 - June 2020, Swedish armed forces
 - Rifleman/Mounted Guard
@@ -31,5 +31,16 @@ Webshop Employee, June 2019 - August 2024, Myrorna
 
 
 ### Projects
+Master thesis - Robotics and AI
+- I am currently writing my master thesis in robotics and AI. In collaboration with Shanghai University I will be utalizing deep learning models to train a humanoid robot to imitate human motions. I expect to learn a lot within reinforcement and imiation learning as well as softwares such as ROS, isaac gym and C++
 
-### Thesis
+Bachelor Thesis - Using machine learning models as well as macroeconomic features to improve house price prediction models
+- My Bachelor thesis revolved around trying to optimize a prediction model for house prices. Previous works put a lot of effort into hyperparameter tuning and model optimization. Me and my thesis partner instead wanted to explore the impact of the actual features put into the prediction model. Using a combination of different macroeconomic features we managed to significantly improve the house price prediction model.
+
+
+### Skills
+- R: For the majority of my education, I have been using R for statistical analyis, visualization etc making me very comfortable in this programming language.
+- Python: This has been my go to language for machine learning and AI tasks. For the most part, i have been working in pytorch when constructing neural networks. 
+- Visma: I used visma extensively during my work in accounting for Studentradion
+- LaTeX: LaTeX has been the primary document compiling language used during my education.
+- Stata: I have gained some stata knowledge during my time at the department of Peace and Conflict. 
