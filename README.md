@@ -13,7 +13,7 @@ Basic Military Training, September 2019 - June 2020, Swedish armed forces
 - Rifleman/Mounted Guard
 
 ### Work Experience
-Reaserch Assistant, October 2024 - Present, Department of Peace and Conflict, Uppsala
+Research Assistant, October 2024 - Present, Department of Peace and Conflict, Uppsala
 - Responsible for the data engineering, statistical analysis and visualization for a research project at the department of Peace and Conflict. 
 
 Data Management, November 2022 - January 2023, Menigo Foodservice AB
