@@ -34,9 +34,16 @@ Webshop Employee, June 2019 - August 2024, Myrorna
 Master thesis - Robotics and AI
 - I am currently writing my master thesis in robotics and AI. In collaboration with Shanghai University I will be utalizing deep learning models to train a humanoid robot to imitate human motions. I expect to learn a lot within reinforcement and imitation learning as well as softwares and languages such as ROS, isaac gym and C++
 
-Bachelor Thesis - Using machine learning models as well as macroeconomic features to improve house price prediction models
+Bachelor Thesis - Using machine learning models as well as macroeconomic features to improve house price prediction models [https://github.com/macitac/portfolio/blob/main/C-Uppsats.pdf]
 - My Bachelor thesis revolved around trying to optimize a prediction model for house prices. Previous works put a lot of effort into hyperparameter tuning and model optimization. Me and my thesis partner instead wanted to explore the impact of the actual features put into the prediction model. Using a combination of different macroeconomic features we managed to significantly improve the house price prediction model.
 
+  
+Deepfake detection using Convolutional neural networks [https://github.com/macitac/portfolio/blob/main/Deepfake%20Image%20Detection.pdf]
+- Developed two different convolutional neural networks in pytorch, comparing and evaluating them on the task of detecting deepfaked vs real images.
+- Created one model from scratch and compared its performance to a model utalizing transfer learning from the Densenet121 model. 
+
+Evaluating predictive performance of Bayesian regression models [https://github.com/macitac/portfolio/blob/main/Evaluating%20predictive%20performance%20of%20Bayesian%20regression%20models.pdf]
+- Developed and implemented hierarchical regression models using rstan. Again using data for house price predictions, but exploring Bayesian methods instead of machine learning.
 
 ### Skills
 - R: For the majority of my education, I have been using R for statistical analyis, visualization etc making me very comfortable in this programming language.
