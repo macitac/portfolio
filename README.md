@@ -34,7 +34,7 @@ Webshop Employee, June 2019 - August 2024, Myrorna
 Master thesis - Robotics and AI
 - I am currently writing my master thesis in robotics and AI. In collaboration with Shanghai University I will be utalizing deep learning models to train a humanoid robot to imitate human motions. I expect to learn a lot within reinforcement and imitation learning as well as softwares and languages such as ROS, isaac gym and C++
 
-Bachelor Thesis - Improving house price prediction models - Exploring the impact of macroeconomic features [https://github.com/macitac/portfolio/blob/main/C-Uppsats.pdf]
+Bachelor Thesis: Improving house price prediction models - Exploring the impact of macroeconomic features [https://github.com/macitac/portfolio/blob/main/C-Uppsats.pdf]
 - My Bachelor thesis revolved around trying to optimize a prediction model for house prices. Previous works put a lot of effort into hyperparameter tuning and model optimization. Me and my thesis partner instead wanted to explore the impact of the actual features put into the prediction model. Using a combination of different macroeconomic features we managed to significantly improve the house price prediction model.
 
   
